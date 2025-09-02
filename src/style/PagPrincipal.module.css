@@ -1,6 +1,7 @@
 @import "bootstrap-icons/font/bootstrap-icons.css";
 
 .contCards {
+  background-color: #6f4c3eae;
   display: flex;
   flex-wrap: wrap;
   gap: 50px;
